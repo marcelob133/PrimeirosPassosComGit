@@ -128,10 +128,10 @@
 		<!--Criação do MENU-->
 		<div class="nav">
 	    <ul>
+			<li> <a href= "home.html"> HOME </a></li> 
 		    <li> <a href= "aquaman.html"> AQUAMAN </a></li>
 			<li> <a href= "batman.html"> BATMAN </a></li>
 			<li> <a href= "superman,html"> SUPERMAN </a></li>
-			<li> <a href= "home.html"> HOME </a></li> 
 			<li> <a href= "deadpool.html"> DEADPOOL </a></li> 
 			<li> <a href= "homem-aranha.html"> HOMEM-ARANHA </a></li>
 			<li> <a href= "wolverine.html"> WOLVERINE </a></li>
@@ -161,7 +161,7 @@
 	<!--Caixa de texto do footer-->	
 	<div class="footer">
 		<br>
-		<h5> WEB STANDARDS - TECNOLOGIA EM SISTEMAS PARA INTERNET </h5>
+		<h5> WEB STANDARDS - TECNOLOGIA EM SISTEMAS PARA INTERNET - TESTE PARA GITHUB </h5>
 	</div>
 	</body>
 </html>
